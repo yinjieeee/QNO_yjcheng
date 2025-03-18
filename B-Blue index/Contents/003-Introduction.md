@@ -1,0 +1,27 @@
+---
+Paper:
+  - "[[003-Controlled-Phase Gate Using Dynamically Coupled Cavities and Optical Nonlinearities]]"
+Page: 1/6
+Paragraph:
+  - "1"
+---
+
+| Paragraph | The quest for deterministic photon-photon logic gates has generally been hindered by the absence of sufficiently strong nonlinearities at optical frequencies. |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 問題        | 缺少足夠的非線性和光學要求(儀器不夠好？)，所以很難做光子-光子邏輯閘                                                                                                                            |
+
+| Paragraph | but **two-qubit gates** realized this way are probabilistic and require large resource overheads |
+| --------- | ------------------------------------------------------------------------------------------------ |
+| 提出解決方案    | 用**雙量子位元閘**，但這種存在機率性及需要大量資源先行開發                                                                  |
+
+| Paragraph | Even with large Kerr nonlinearities, Shapiro showed in 2006 that two-photon gates between traveling wave packets cannot achieve high fidelity; this fundamental limit was further elucidated in Refs. shedding doubt on the possibility of quantum computing with bulk nonlinearities. Recent theoretical proposals have reopened the discussion by showing that arbitrarily high fidelity is possible in certain limits, but their implementations require cryogenically cooled identical quantum emitters , atomic ensembles, or nonlocal nonlinearities. |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 困境        | 高Kerr effect的材料，行進波包之間的雙光子閘還是沒辦法達到高保真度                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 自己問題      | 極限範圍？(參考paper 8, 9, 10, 11, 12)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+
+| Paragraph | Here, we introduce a new approach that achieves near-unity gate fidelity in a compact and room-temperature compatible architecture, which only relies on the bulk nonlinearities of optical cavities realized in common materials for photonic integrated circuits. The scheme relies on two-photon interactions when the photons are dynamically stored in a nanophotonic cavity. |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           | 新方法介紹                                                                                                                                                                                                                                                                                                                                                                              |
+| 特性        | 室溫相容+緊湊(near-unity gate fidelity un a compact)的架構可以接近統一的閘極保真度                                                                                                                                                                                                                                                                                                                      |
+| 條件        | 光子積體電路中的常用材料中光腔的bulk非線性                                                                                                                                                                                                                                                                                                                                                            |
+| 原因(?)     | 光子動態儲存在奈米光子腔                                                                                                                                                                                                                                                                                                                                                                       |
