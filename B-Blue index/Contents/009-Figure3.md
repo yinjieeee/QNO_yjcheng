@@ -1,7 +1,6 @@
 ---
 Paper:
   - "[[009-Chiral quantum optics]]"
-  - "[[004-Coupling of Nitrogen-Vacancy Centers to Photonic Crystal Cavities in Monocrystalline Diamond]]"
 Page: 3/8
 Paragraph:
 ---
