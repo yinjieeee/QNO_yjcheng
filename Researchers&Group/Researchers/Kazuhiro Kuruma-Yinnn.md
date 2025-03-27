@@ -1,5 +1,5 @@
 ---
-Group: Ozeki Group;
+Group: "[[Group Ozeki]]"
 Affiliation: Assistant professor, Research Center for Advanced Science and Technology, The University of Tokyo
 Research Interests:
   - Color centers
@@ -10,7 +10,8 @@ Research Interests:
   - Stimulated Raman scattering
 Google Scholar: https://scholar.google.com.tw/citations?hl=zh-TW&user=slbsOYEAAAAJ
 Personal web: https://researchmap.jp/kkuruma
-E-mail:
+E-mail: 
+Citations: 314, 14/03/25
 ---
 ##### Related links
 - [[Group Ozeki]]

@@ -9,6 +9,7 @@ Research Interests:
 Google Scholar: https://scholar.google.com/citations?user=UIuiCwcAAAAJ&hl=en
 Personal web: https://nano-optics.seas.harvard.edu/people/marko-loncar
 E-mail: loncar@g.harvard.edu
+Citations: 44252, 14/03/25
 ---
 ##### Related link
 - [[001-Coupling of a single tin-vacancy center to a photonic crystal cavity in diamond]]
