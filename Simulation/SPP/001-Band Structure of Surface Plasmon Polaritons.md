@@ -48,8 +48,10 @@ geometry = [b]
 ##### B.C設定
 ```python
 # boundary layer
-boundary_layers=[mp.Absorber(thickness=dpml, direction=mp.Y)] ## !! Here, I do not use pml since pml can not deal with wave propagating parallel to the plane
+boundary_layers=[mp.Absorber(thickness=dpml, direction=mp.Y)]
 ```
+>!! Here, I do not use pml since pml can not deal with wave propagating parallel to the plane
+
 ##### 波源設定(Source)
 ```python
 # source 

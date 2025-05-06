@@ -1,19 +1,21 @@
 ---
-Cite as: 
-DOI: 
-Submitted: 
-Accepted: 
-Published: 
-Author: 
+Cite as: Nanophotonics, vol. 12, no. 3, 2023
+DOI: 10.1515/nanoph-2022-0682
+Submitted: November 1, 2022
+Accepted: December 4, 2022
+Published: " January 9, 2023"
+Author:
+  - Laura Kim
+  - Hyeongrak Choi
+  - Matthew E. Trusheim
+  - Hanfeng Wang
+  - "[[Dirk R. Englund]]"
 tags: 
-Source from:
+Source from: "[[Dirk R. Englund]]"
 ---
 #### Related links
 - 
 
----
-#### Researchers
-1. 
 ---
 #### Abstract
 
