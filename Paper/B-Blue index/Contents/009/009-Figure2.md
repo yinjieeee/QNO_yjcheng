@@ -5,12 +5,6 @@ Page: 3/8
 Paragraph:
 ---
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-
-
 ---
 ![[Pasted image 20250327111525.png]]
 **Figure 2 | Electric field polarization and spin in optical nanofibres and waveguides.** 
