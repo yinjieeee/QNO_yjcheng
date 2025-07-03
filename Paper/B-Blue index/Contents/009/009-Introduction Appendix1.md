@@ -28,8 +28,8 @@
 #### 二、環境退相干的本質與產生機制
 
 ##### 1. 退相干的定義
- 量子系統與環境糾纏導致相位資訊退定域化，使量子疊加態退化為經典混合態，表現為干涉圖樣消失[5](https://zh.wikipedia.org/zh-tw/%E9%87%8F%E5%AD%90%E9%80%80%E7%9 B%B8%E5%B9%B2)[6](https://zh.wikipedia.org/zh-cn/%E9%87%8F%E5%AD%90%E5%8E%BB%E7%9B%B8%E5%B9%B2?oldformat=true)。數學表述為：$$\rho_s \rightarrow \begin{pmatrix} |c_1|^2 & 0\\ 0 & |c_2|^2 \end{pmatrix}$$
- 密度矩陣非對角項歸零表示相干性喪失[6](https://zh.wikipedia.org/zh-cn/%E9%87%8F%E5%AD%90%E5%8E%BB%E7%9B%B8%E5%B9%B2?oldformat=true)。
+ 量子系統與環境糾纏導致相位資訊退定域化，使<font color="#ffc000">量子疊加態退化為經典混合態</font>，表現為干涉圖樣消失[5](https://zh.wikipedia.org/zh-tw/%E9%87%8F%E5%AD%90%E9%80%80%E7%9 B%B8%E5%B9%B2)[6](https://zh.wikipedia.org/zh-cn/%E9%87%8F%E5%AD%90%E5%8E%BB%E7%9B%B8%E5%B9%B2?oldformat=true)。數學表述為：$$\rho_s \rightarrow \begin{pmatrix} |c_1|^2 & 0\\ 0 & |c_2|^2 \end{pmatrix}$$
+ <font color="#ffc000">密度矩陣非對角項歸零表示相干性喪失</font>[6](https://zh.wikipedia.org/zh-cn/%E9%87%8F%E5%AD%90%E5%8E%BB%E7%9B%B8%E5%B9%B2?oldformat=true)。
 
 ##### 2. 產生原因
 

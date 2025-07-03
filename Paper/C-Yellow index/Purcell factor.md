@@ -15,15 +15,17 @@ Meaning：腔體內與真空中的自發性輻射衰減率的比值$F_P=\dfrac{3
 |  ground state  | $\|a>$                             |
 |                |                                    |
 激發原子在ground state，其衰減率：
-$\Gamma(\mathbf{r})={\dfrac{2\pi}{\hbar^2}}\sum\limits_{\mathbf{k}_n}|\left\langle{a, \mathbf{k}_n|H_I|b,0}\right\rangle|^2\delta(\omega_{em}-\omega_{\mathbf{kn}})$
+$$\Gamma(\mathbf{r})={\dfrac{2\pi}{\hbar^2}}\sum\limits_{\mathbf{k}_n}|\left\langle{a, \mathbf{k}_n|H_I|b,0}\right\rangle|^2\delta(\omega_{em}-\omega_{\mathbf{kn}})$$
 - $H_I=-\hat{\textbf{p}}\cdot{\hat{\textbf{E}}}(\textbf{r})$ 交互作用的Hamitonian，描述電偶極近似後的原子與電磁場的耦合
 
-主要探討腔體內的自發性雷射率，所以分成兩種組成：真空貢獻(均勻介質n1)與腔體貢獻
-(i)真空貢獻：$n_1\Gamma_0={\dfrac{2\pi}{\hbar^2}}\sum\limits_{\textbf{k}_n}|\left\langle{a, \textbf{k}_n|H_0|b,0}\right\rangle|^2\delta(\omega_{em}-\omega_{\textbf{kn}})=n_1\dfrac{p^2{\omega_{em}^3}}{3\pi\epsilon_0\hbar{c}^3}$
-(ii)腔體貢獻：$\Gamma_{cav}={\dfrac{2\pi}{\hbar^2}}\sum\limits_{\textbf{k}_n}|\left\langle{g, \textbf{k}_n|H_{cav}|e,0}\right\rangle|^2\delta(\omega_{em}-\omega_{\textbf{kn}})$
+主要探討腔體內的自發性輻射率，所以分成兩種組成：
+- 真空貢獻：$n_1\Gamma_0={\dfrac{2\pi}{\hbar^2}}\sum\limits_{\textbf{k}_n}|\left\langle{a, \textbf{k}_n|H_0|b,0}\right\rangle|^2\delta(\omega_{em}-\omega_{\textbf{kn}})=n_1\dfrac{p^2{\omega_{em}^3}}{3\pi\epsilon_0\hbar{c}^3}$
+- 腔體貢獻：$\Gamma_{cav}={\dfrac{2\pi}{\hbar^2}}\sum\limits_{\textbf{k}_n}|\left\langle{g, \textbf{k}_n|H_{cav}|e,0}\right\rangle|^2\delta(\omega_{em}-\omega_{\textbf{kn}})$
 
-腔體貢獻限制**單模腔體**，共振在$\omega_c$，
-**(8)**  $\Gamma_{cav}={\dfrac{2\pi}{\hbar^2}}\sum\limits_{\textbf{k}_n}|\left\langle{a, \textbf{1}|H_{cav}|b,0}\right\rangle|^2\delta(\omega_{em}-\omega_{\textbf{c}})$
+腔體貢獻限制**單模腔體**，共振在$\omega_c$，$$\Gamma_{cav}={\dfrac{2\pi}{\hbar^2}}\sum\limits_{\textbf{k}_n}|\left\langle{a, \textbf{1}|H_{cav}|b,0}\right\rangle|^2\delta(\omega_{em}-\omega_{\textbf{c}})\tag{8}$$
+
+
+
 
 
 |                        |                                                                         |
@@ -35,10 +37,10 @@ $\Gamma(\mathbf{r})={\dfrac{2\pi}{\hbar^2}}\sum\limits_{\mathbf{k}_n}|\left\lang
 | 腔體模態間的空間變化             | $\textbf{f}(\textbf{r})$                                                |
 
 單模腔體的電場向量
-**(9)**  $\hat{E}_{cav}(\textbf{r})=i\sqrt{\dfrac{\hbar{\omega_c}}{2\varepsilon_0\varepsilon_1V}}\textbf{f}(\textbf{r})\hat{a}+h.c.$
+$$\hat{E}_{cav}(\textbf{r})=i\sqrt{\dfrac{\hbar{\omega_c}}{2\varepsilon_0\varepsilon_1V}}\textbf{f}(\textbf{r})\hat{a}+h.c.\tag{9}$$
 - $|\textbf{f}(\textbf{r})|=0$為節點，$|\textbf{f}(\textbf{r})|=1$則為波腹(離節點最遠)
 為了實現這個表示法，典型的電場向量可表示
-**(10)**  $\hat{E}_{cav}(\textbf{r},t)=i\sqrt{\dfrac{\hbar{\omega_c}}{2\varepsilon_0\varepsilon_1V}}\textbf{f}(\textbf{r})e^{-i\omega_ct}+c.c.$ 
+$$\hat{E}_{cav}(\textbf{r},t)=i\sqrt{\dfrac{\hbar{\omega_c}}{2\varepsilon_0\varepsilon_1V}}\textbf{f}(\textbf{r})e^{-i\omega_ct}+c.c.\tag{10}$$ 
 normalized with respect to the energy 
 **(11)**  $\hbar\omega_c=\frac{1}{2}\int[\varepsilon_0\varepsilon_1(\textbf{r})E^2(\textbf{r},t)+\mu_0{\textbf{H}}^2(\textbf{r},t)]d\textbf{r}$ 
 **(12)**  $=\dfrac{\hbar\omega_c}{\epsilon_1V}\int\varepsilon(\textbf{r})|\textbf{f}(\textbf{r})|^2d\textbf{r}$ 
