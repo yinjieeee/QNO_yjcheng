@@ -4,13 +4,6 @@ Paper:
 Page: 2/8
 Paragraph:
 ---
-
-|     |     |
-| --- | --- |
-|     |     |
-
-
----
 ![[Pasted image 20250327111150.png]]
 **Figure 1 | Illustration of basic chiral photon–emitter processes.**  
 - **a,** Directional photon emission in a waveguide controlled by the polarization of the <font color="#ffc000">dipole emitter</font>, $σ_+$ or $σ_−$. The quantization axis is along the y axis. Inset, an emitter level scheme with two orthogonally circularly polarized transitions. 
