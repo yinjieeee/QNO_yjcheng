@@ -28,7 +28,8 @@
 
 整個專案是「一條最佳化主線 + 三個獨立的驗證/分析工具」：所有程式共用 `config.py` 的全域參數，並透過 `models.py` 建立同一個模擬場景。
 
-[![[完整架構流程圖.png]]
+<img width="1344" height="1222" alt="完整架構流程圖" src="https://github.com/user-attachments/assets/ee3af763-0991-4981-bdbb-7c95183ae704" />
+
 
 實線箭頭代表呼叫或資料流向；`config.py` 被所有模組讀取，圖中只畫出寫入它的 `run.py`。`eval_chirality.py` 既是主線結束時自動呼叫的步驟，也可以獨立執行。
 
